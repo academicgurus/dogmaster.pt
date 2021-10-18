@@ -4,12 +4,11 @@ layout: collection
 permalink: /husky-introducao/
 collection: portfolio
 entries_layout: grid
-header:
-  teaser: /test/image.png
+
 
 ---
 
-<h2>Testing stuff</h2>
+
 ![Cloudflare architecture](husky.jpg)
 
 <a href="#" class="btn btn--success">Success Button</a>
